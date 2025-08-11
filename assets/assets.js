@@ -81,6 +81,7 @@ export const workData = [
         title: 'Vendor Performance Summary',
         description: 'Data Analyst',
         bgImage: '/work-1.png',
+        link: ""
     },
     {
         title: 'Heart Disease Prediction',
@@ -91,6 +92,7 @@ export const workData = [
         title: 'Covid-19 Data Analysis',
         description: 'Data Analyst',
         bgImage: '/work-3.png',
+        link: "https://github.com/AmanKumarpa/covid19.git"
     },
     
 ]
