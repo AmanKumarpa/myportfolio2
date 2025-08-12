@@ -81,20 +81,20 @@ export const workData = [
         title: 'Vendor Performance Summary',
         description: 'Data Analyst',
         bgImage: '/work-1.png',
-        link: 'https://github.com/AmanKumarpa/Vendor-Performance-.git'
+        link: 'https://github.com/AmanKumarpa/Vendor-Performance-.git',
      
     },
     {
         title: 'Heart Disease Prediction',
         description: 'Machine Learning',
         bgImage: '/work-2.png',
-        link:'https://github.com/AmanKumarpa/heart-disease-app.git'
+        link:'https://github.com/AmanKumarpa/heart-disease-app',
     },
      {
         title: 'Covid-19 Data Analysis',
         description: 'Data Analyst',
         bgImage: '/work-3.png',
-        link:'https://github.com/AmanKumarpa/covid19.git'
+        link:'https://github.com/AmanKumarpa/covid19',
        
     },
     
